@@ -1,0 +1,15 @@
+# Python
+   __pycache__/
+   *.pyc
+   *.pyo
+   *.pyd
+   .Python
+   env/
+   venv/
+   *.egg-info/
+   
+   # Model file (already included in repo)
+   # fraud_model_text.joblib
+   
+   # Docker
+   *.dockerignore
